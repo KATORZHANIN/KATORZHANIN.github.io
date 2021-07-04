@@ -188,7 +188,9 @@ body {
 #myFooter .social-icons {
     float:right;
 }
-
+.container{
+	background-color:black;
+}
 
 #myFooter .facebook:hover {
     color: #0077e2;
